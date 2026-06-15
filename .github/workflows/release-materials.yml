@@ -8,7 +8,7 @@ on:
         required: true
         type: choice
         options:
-          - (none-yet)
+          - materials-f2026
       cohort_org:
         description: "Target cohort org"
         required: true
