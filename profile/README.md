@@ -18,7 +18,7 @@ cohort org using the GitHub Actions below_.
 
 | Repo | Visibility | Description |
 | --- | --- | --- |
-| _(no repos yet)_ | | |
+| [materials-f2026](https://github.com/THROWAWAY-HERTIE-1/materials-f2026) | private | Deep Learning labs - course materials (f2026) |
 
 ## Available actions for faculty & admin
 
