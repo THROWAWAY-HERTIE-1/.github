@@ -18,6 +18,9 @@ cohort org using the GitHub Actions below_.
 
 | Repo | Visibility | Description |
 | --- | --- | --- |
+| [assignment-1-f2026](https://github.com/THROWAWAY-HERTIE-1/assignment-1-f2026) | private | Deep Learning - Problem Set 1 (assignment template, f2026) |
+| [assignment-2-f2026](https://github.com/THROWAWAY-HERTIE-1/assignment-2-f2026) | private | Deep Learning - Problem Set 2 (assignment template, f2026) |
+| [assignment-3-f2026](https://github.com/THROWAWAY-HERTIE-1/assignment-3-f2026) | private | Deep Learning - Problem Set 3 (assignment template, f2026) |
 | [materials-f2026](https://github.com/THROWAWAY-HERTIE-1/materials-f2026) | private | Deep Learning labs - course materials (f2026) |
 
 ## Available actions for faculty & admin
