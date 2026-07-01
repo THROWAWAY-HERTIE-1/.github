@@ -7,11 +7,12 @@ on:
         description: "Assignment number (e.g. 1)"
         required: true
       tag:
-        description: "Year tag (e.g. f2026) - creates assignment-<number>-<tag>"
+        description: "Year tag, e.g. f2026 or s2026 - creates assignment-<number>-<tag>"
         required: true
 
 jobs:
   check-team:
+    if: github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
       - name: Verify the user may run actions for THIS repo
