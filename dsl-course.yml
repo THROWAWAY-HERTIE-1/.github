@@ -6,7 +6,5 @@ course_code:
 people:
   instructors:
     - github_handle: henrycgbaker
-      start: "2020-01-01"
-      end: "2020-12-31"
   course_admins:
     - github_handle: henrycgbaker
