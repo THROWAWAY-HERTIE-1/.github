@@ -8,3 +8,4 @@ people:
     - github_handle: henrycgbaker
   course_admins:
     - github_handle: henrycgbaker
+# live-verify: trivial edit to trigger push-based Sync membership
