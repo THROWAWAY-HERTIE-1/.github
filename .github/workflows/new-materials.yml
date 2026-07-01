@@ -4,11 +4,12 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: "Year tag (e.g. f2026) - creates course-materials-<tag>"
+        description: "Year tag, e.g. f2026 or s2026 - creates course-materials-<tag>"
         required: true
 
 jobs:
   check-team:
+    if: github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
       - name: Verify the user may run actions for THIS repo
